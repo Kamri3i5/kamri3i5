@@ -54,16 +54,13 @@ const kamron = {
 ### 🎯 What I do
 
 🏢 **Corporate websites**  
-&nbsp;&nbsp;&nbsp;Schindler · SAFELIFT · just2010
+&nbsp;&nbsp;&nbsp;Schindler · SAFELIFT
 
 🚀 **Landing pages**  
 &nbsp;&nbsp;&nbsp;Premium, animated, conversion-focused
 
 🤖 **AI integrations**  
 &nbsp;&nbsp;&nbsp;React + Gemini, Claude APIs
-
-🎮 **Creative coding**  
-&nbsp;&nbsp;&nbsp;Raycasting, voxel worlds, WebGL
 
 🏆 **Hackathons**  
 &nbsp;&nbsp;&nbsp;BWAI 2026 — SQB Bank tooling
